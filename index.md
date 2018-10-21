@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archieve
 title: Hari Baskar
 subtitle:
 desc: About me.
