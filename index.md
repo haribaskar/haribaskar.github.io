@@ -3,6 +3,7 @@ layout: home
 title: Hari Baskar
 subtitle:
 desc: About me.
+author_profile: true
 permalink: /
 ---
 
