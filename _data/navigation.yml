@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "home"
-    url: https://haribaskar.github.io/
+  - title: "Home"
+    url: /
   - title: "About"
-    url: https://haribaskar.github.io/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
