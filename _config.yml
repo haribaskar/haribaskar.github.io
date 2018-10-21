@@ -13,7 +13,7 @@ title                    : "haribaskar"
 title_separator          : "-"
 name                     : "Hari Baskar"
 description              : "This is haribaskar's blog."
-url                      : "https://haribaskar.github.io" # the base hostname & protocol for your site 
+url                      : "https://haribaskar.me" # the base hostname & protocol for your site 
 baseurl                  :  # the subpath of your site "/blog" 
 repository               : "haribaskar/haribaskar.github.io" # GitHub username/repo-name
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,7 +95,7 @@ author:
   bio              : "Every thing happens for a reason."
   location         : "Bangalore"
   email            : "haribaskar98@gmail.com"
-  uri              : "https://haribaskar.github.io/"
+  uri              : "https://haribaskar.me/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
