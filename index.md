@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Hari Baskar
+title: About me
 subtitle:
 desc: About me.
 author_profile: true
