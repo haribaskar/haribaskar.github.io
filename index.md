@@ -1,4 +1,3 @@
-### Hey
 I'm working as datascientist past 2 years, I like to solve challenging complex problems and provide optimal solution to grow the business.
 
 **Following projects are i worked on:**
