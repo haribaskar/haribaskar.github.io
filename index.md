@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hari Baskar
 subtitle:
 desc: About me.
